@@ -1,12 +1,12 @@
 export default {
-    base: '/MediaBoxPluginRepository/',
+    base: '/PluginRepository/',
     title: '媒体盒子',
     lang: 'zh-CN',
     description: '插件化网罗天下媒体',
     lastUpdated: true,
 
     head: [
-        ['link', { rel: 'icon', href: '/MediaBoxPluginRepository/logo.png' }],
+        ['link', { rel: 'icon', href: '/PluginRepository/logo.png' }],
         ['script', { src: 'https://www.googletagmanager.com/gtag/js?id=G-47730WPJWW' }],
         ['script', , `
         window.dataLayer = window.dataLayer || [];
