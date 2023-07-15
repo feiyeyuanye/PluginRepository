@@ -1,0 +1,13 @@
+[
+    {
+        "version": "1.2",
+        "packageName": "com.example.zzzfunanimeplugin",
+        "iconBase64": "data:image/png;base64,/9j/4AAQSkZJRgABAQAASABIAAD/4QBYRXhpZgAATU0AKgAAAAgAAgESAAMAAAABAAEAAIdpAAQAAAABAAAAJgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAEKADAAQAAAABAAAAEAAAAAD/7QA4UGhvdG9zaG9wIDMuMAA4QklNBAQAAAAAAAA4QklNBCUAAAAAABDUHYzZjwCyBOmACZjs+EJ+/8AAEQgAEAAQAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/bAEMAAQEBAQEBAgEBAgMCAgIDBAMDAwMEBgQEBAQEBgcGBgYGBgYHBwcHBwcHBwgICAgICAkJCQkJCwsLCwsLCwsLC//bAEMBAgICAwMDBQMDBQsIBggLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLC//dAAQAAf/aAAwDAQACEQMRAD8A/pC+EPxJ8N6z+0/4u8D6zZ6qvibWruy1a5UaFqEmmzaRqGhWaJI+ofZXs0je6sp4ovMuVDSRSxDdJlT5PrP9jW3hL4qfsLa/JqUeqvJcaho9wuhX9xYW2maxbeebl76O3a1i868XUUQTXKlpleBGwFFelfAr9qb4ReMfGuk6RpHhGfU/HEHhpraLV7KG0aS70q2PnmG3mmkguZQXTzHtI4yUmV/lby2eqHx6/ak+EPhvxrfaP4i8GXOleM30OOCfVb+KzE1po80i3HkzzW8txcxBn2yJaSIjNK0eVUurV9YsRmSzD6pGi+a0Wlppyysn6bq1+a3keGsty2WXrGyqrku05a7ON/v2963LfSzZ/9k=",
+        "sourcePath": "https://github.com/feiyeyuanye/ZzzFunAnimePlugin/releases/download/1.2%282%29/ZzzFunAnimePlugin_1.2_2.mpp",
+        "name": "ZzzFun动漫",
+        "apiVersion": 7,
+        "repoDesc": "ZzzFun动漫第三方客户端(需要梯子)(http://www.zzzfun.com)",
+        "repoUrl": "https://github.com/feiyeyuanye/ZzzFunAnimePlugin/releases/tag/1.2(2)",
+        "author": "feiyeyuanye"
+    }
+]
