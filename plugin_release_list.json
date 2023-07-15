@@ -42,7 +42,7 @@
         },
         {
             "name": "LIBVIO影视",
-            "release": "https://github.com/feiyeyuanye/LIBVIOVideoPlugin/releases/tag/1.0(1)"
+            "release": "https://github.com/feiyeyuanye/LIBVIOVideoPlugin/releases/tag/1.3(3)"
         },
         {
             "name": "AGE动漫",
@@ -50,7 +50,7 @@
         },
         {
             "name": "ZzzFun动漫",
-            "release": "https://github.com/feiyeyuanye/ZzzFunAnimePlugin/releases/tag/1.2(2)"
+            "release": "https://github.com/feiyeyuanye/ZzzFunAnimePlugin/releases/tag/1.3(3)"
         }
     ]
 }
