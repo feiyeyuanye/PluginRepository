@@ -71,6 +71,10 @@
         {
             "name": "海外看资源站",
             "release": "https://github.com/feiyeyuanye/HaiwaikanVodPlugin/releases/tag/1.0(1)"
+        },
+        {
+            "name": "暴风资源",
+            "release": "https://github.com/feiyeyuanye/BFZYVodPlugin/releases/tag/1.0(1)"
         }
     ]
 }
