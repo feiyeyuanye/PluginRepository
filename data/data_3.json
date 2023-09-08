@@ -6,6 +6,7 @@
         "sourcePath": "https://github.com/RyensX/DubokuVideoPlugin/releases/download/1.0/DubokuVideoPlugin_1.0_1.mpp",
         "name": "独播影视",
         "apiVersion": 7,
+        "repoDesc": "媒体盒子示例插件-独播影视",
         "repoUrl": "https://github.com/RyensX/DubokuVideoPlugin/releases/tag/1.0",
         "author": "RyensX"
     },
@@ -16,6 +17,7 @@
         "sourcePath": "https://github.com/feiyeyuanye/SakuraAnime3Plugin/releases/download/1.7%289%29/SakuraAnime3Plugin_1.7_9.mpp",
         "name": "樱花动漫3",
         "apiVersion": 7,
+        "repoDesc": "樱花动漫第三方客户端(https://www.yhdmzz.com)",
         "repoUrl": "https://github.com/feiyeyuanye/SakuraAnime3Plugin/releases/tag/1.7(9)",
         "author": "feiyeyuanye"
     }

@@ -9,5 +9,16 @@
         "repoDesc": "暴风资源第三方客户端插件(http://bfzy.tv)",
         "repoUrl": "https://github.com/feiyeyuanye/BFZYVodPlugin/releases/tag/1.0(1)",
         "author": "feiyeyuanye"
+    },
+    {
+        "version": "1.2",
+        "packageName": "com.jhr.hanime1plugin_nsfw",
+        "iconBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAABLCAYAAADd0L+GAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAD10lEQVRoBe1avU4bQRDePR/GJnFoIClCYSOogogip0kRyenyAnmXPESkVHkK3iBFYiltXBDFBTJCRikA0RAcAv653cwa/5wR7H1nz9mccyeh27v5bma+mdkfLysFeNXyW2cEXQ6AK1fop4V69VgLIaUQdBte/Xe7T7YfLGX1NxK/GEpvbZnvP2/Wf769VXrjpXPj2faYtgl7Midfr54E4Z6f/LggIotBOJJLLbUL4LqQMGRGomwxQAkBLi0UgDJsIJzRFYYMYluUSyV2nZDhKMiUyqtoBlEfYRx7FMulU6zMYBdxIDsZ3DQ/MiFji2mu0ZifMmvkctwDAKyPvcwiyAycaXYyEWTGVtUjMnYyI9qn/PDfkoE6YgR9Bs5vmMzAHTHIOkWFTZffVhgyUGayV1eBjhIA0uV3FGmHIYPoE5eZTKCj9yEzEJm4DM2B5QOxJdB9KLPA8kHJxKbMEEJRZQbeLLiujmBXH5+eZmobG+0DtZypOb9HsrlPn+82lrzV1IK+kE32wScMmRHH7qL1rFr905M178KY97XC1iX3AB2GjM23vkzvFbZfC+Gdu15qxXNVVngiLR3taCUV3dtCO+cGrLV+yDai9KyHIYPYlo5SX2j7z1WOEt1NIvOVlt0dQXPvzZemhejruYnd2OuWXEQCxE7E0OUngwUxElQYMtAAEImXoNIwZCIpDdBPCBaGDKRwlqCEzCyjb7OdZMYWnVnKkszMMvo228jSw/b9bTIzuZo5qT/J9u8G65+r/G0jm/hiJyOFPiTvW7SobJHrLfKwQxzoVXeVaewt0EOamKyb9sQMfArYyWgtPkjhHNA/VltKigupdFtLT0mdcohOmgimpVSrQsmP1F7z+TJxk5uM3jysfkK8oh9n76kQWclwj2Z4P1CDPoVwhzDcmRkY/VoquWbf2b/DaTYIX1Yq7R4oMwAzNdjJdI+S5P52vKOjdPNsUXVEauBqduVK/lp75aZUS9KGxlAwQEzWYCfzKHvuFfbrze/FoirurdPpip3h0HzyjspwR9HBh9RavUWyoWgyGtdfc/cZUc/naSgWolipdKTY8ch7GtSu/wwRaus35XLH7GhwEPDrYCfjVz7tdkJm2hFH7SWZsUUqOdVki04IWVJmIYI1VWiSGVu4kUMNNPXTQoD/Ys9MsWLWY/bLLGnsiPGk7GTm6ozmXM0zleIBe7bRomM3HJcTGmiAZoZjz8xc9Zm5Gs2QSTOqOmQvs7kaAJI+w1R37GXG5NdYatjJIGUWm1UzEtLYrJoRMrHJDDJpxiYzSJ9BsjcOhn0AQDIzjqPIN/8AccsHrkFLHgMAAAAASUVORK5CYII=",
+        "sourcePath": "https://github.com/feiyeyuanye/Hanime1Plugin/releases/download/1.2%282%29/Hanime1Plugin_1.2.apk",
+        "name": "Hanime1动漫",
+        "apiVersion": 8,
+        "repoDesc": "Android插件(https://hanime1.me) (NSFW)",
+        "repoUrl": "https://github.com/feiyeyuanye/Hanime1Plugin/releases/tag/1.2(2)",
+        "author": "feiyeyuanye"
     }
 ]

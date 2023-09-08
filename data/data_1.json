@@ -6,6 +6,7 @@
         "sourcePath": "https://github.com/RyensX/SakuraAnimePlugin/releases/download/1.9%2810%29/SakuraAnimePlugin_1.9_10.mpp",
         "name": "樱花动漫",
         "apiVersion": 5,
+        "repoDesc": "樱花动漫第三方客户端 (http://www.yinghuacd.com)",
         "repoUrl": "https://github.com/RyensX/SakuraAnimePlugin/releases/tag/1.9(10)",
         "author": "RyensX"
     },
@@ -16,6 +17,7 @@
         "sourcePath": "https://github.com/RyensX/SakuraAnime2Plugin/releases/download/1.5%287%29/SakuraAnime2Plugin_1.5_7.mpp",
         "name": "樱花动漫2",
         "apiVersion": 7,
+        "repoDesc": "樱花动漫第三方客户端 (https://www.yhdmp.net)",
         "repoUrl": "https://github.com/RyensX/SakuraAnime2Plugin/releases/tag/1.5(7)",
         "author": "RyensX"
     }

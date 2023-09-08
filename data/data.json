@@ -6,6 +6,7 @@
         "sourcePath": "https://github.com/RyensX/SakuraAnimePlugin/releases/download/1.9%2810%29/SakuraAnimePlugin_1.9_10.mpp",
         "name": "樱花动漫",
         "apiVersion": 5,
+        "repoDesc": "樱花动漫第三方客户端 (http://www.yinghuacd.com)",
         "repoUrl": "https://github.com/RyensX/SakuraAnimePlugin/releases/tag/1.9(10)",
         "author": "RyensX"
     },
@@ -16,6 +17,7 @@
         "sourcePath": "https://github.com/RyensX/SakuraAnime2Plugin/releases/download/1.5%287%29/SakuraAnime2Plugin_1.5_7.mpp",
         "name": "樱花动漫2",
         "apiVersion": 7,
+        "repoDesc": "樱花动漫第三方客户端 (https://www.yhdmp.net)",
         "repoUrl": "https://github.com/RyensX/SakuraAnime2Plugin/releases/tag/1.5(7)",
         "author": "RyensX"
     },
@@ -26,6 +28,7 @@
         "sourcePath": "https://github.com/MARVEL-LJH/GimyPlugin/releases/download/1.4.27/GimyPlugin_1.4.27.mpp",
         "name": "Gimy劇迷",
         "apiVersion": 2,
+        "repoDesc": " Gimy.app plug-in unit from MediaBox by RyensX.    Gimy劇迷第三方客户端 (https://gimy.app/)",
         "repoUrl": "https://github.com/MARVEL-LJH/GimyPlugin/releases/tag/1.4.27",
         "author": "MARVEL-LJH"
     },
@@ -36,6 +39,7 @@
         "sourcePath": "https://github.com/RyensX/DDVideoPlugin/releases/download/1.2%284%29/DDVideoPlugin_1.2_4.mpp",
         "name": "DD影视",
         "apiVersion": 6,
+        "repoDesc": "媒体盒子示例插件-DD影视(https://ddys.tv/)",
         "repoUrl": "https://github.com/RyensX/DDVideoPlugin/releases/tag/1.2(4)",
         "author": "RyensX"
     },
@@ -46,6 +50,7 @@
         "sourcePath": "https://github.com/RyensX/DubokuVideoPlugin/releases/download/1.0/DubokuVideoPlugin_1.0_1.mpp",
         "name": "独播影视",
         "apiVersion": 7,
+        "repoDesc": "媒体盒子示例插件-独播影视",
         "repoUrl": "https://github.com/RyensX/DubokuVideoPlugin/releases/tag/1.0",
         "author": "RyensX"
     },
@@ -56,6 +61,7 @@
         "sourcePath": "https://github.com/feiyeyuanye/SakuraAnime3Plugin/releases/download/1.7%289%29/SakuraAnime3Plugin_1.7_9.mpp",
         "name": "樱花动漫3",
         "apiVersion": 7,
+        "repoDesc": "樱花动漫第三方客户端(https://www.yhdmzz.com)",
         "repoUrl": "https://github.com/feiyeyuanye/SakuraAnime3Plugin/releases/tag/1.7(9)",
         "author": "feiyeyuanye"
     },
@@ -88,6 +94,7 @@
         "sourcePath": "https://github.com/feiyeyuanye/ZzzFunAnimePlugin/releases/download/1.3%283%29/ZzzFunAnimePlugin_1.3_3.mpp",
         "name": "ZzzFun动漫",
         "apiVersion": 7,
+        "repoDesc": "ZzzFun动漫第三方客户端(需要梯子)(http://www.zzzfun.one)",
         "repoUrl": "https://github.com/feiyeyuanye/ZzzFunAnimePlugin/releases/tag/1.3(3)",
         "author": "feiyeyuanye"
     },
@@ -109,6 +116,7 @@
         "sourcePath": "https://github.com/feiyeyuanye/FreeOkVideoPlugin/releases/download/1.3%283%29/FreeOkVideoPlugin_1.3_3.mpp",
         "name": "FreeOk影视",
         "apiVersion": 8,
+        "repoDesc": "FreeOk 第三方客户端(https://www.freeok.vip)",
         "repoUrl": "https://github.com/feiyeyuanye/FreeOkVideoPlugin/releases/tag/1.3(3)",
         "author": "feiyeyuanye"
     },
@@ -198,6 +206,17 @@
         "apiVersion": 8,
         "repoDesc": "暴风资源第三方客户端插件(http://bfzy.tv)",
         "repoUrl": "https://github.com/feiyeyuanye/BFZYVodPlugin/releases/tag/1.0(1)",
+        "author": "feiyeyuanye"
+    },
+    {
+        "version": "1.2",
+        "packageName": "com.jhr.hanime1plugin_nsfw",
+        "iconBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAABLCAYAAADd0L+GAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAD10lEQVRoBe1avU4bQRDePR/GJnFoIClCYSOogogip0kRyenyAnmXPESkVHkK3iBFYiltXBDFBTJCRikA0RAcAv653cwa/5wR7H1nz9mccyeh27v5bma+mdkfLysFeNXyW2cEXQ6AK1fop4V69VgLIaUQdBte/Xe7T7YfLGX1NxK/GEpvbZnvP2/Wf769VXrjpXPj2faYtgl7Midfr54E4Z6f/LggIotBOJJLLbUL4LqQMGRGomwxQAkBLi0UgDJsIJzRFYYMYluUSyV2nZDhKMiUyqtoBlEfYRx7FMulU6zMYBdxIDsZ3DQ/MiFji2mu0ZifMmvkctwDAKyPvcwiyAycaXYyEWTGVtUjMnYyI9qn/PDfkoE6YgR9Bs5vmMzAHTHIOkWFTZffVhgyUGayV1eBjhIA0uV3FGmHIYPoE5eZTKCj9yEzEJm4DM2B5QOxJdB9KLPA8kHJxKbMEEJRZQbeLLiujmBXH5+eZmobG+0DtZypOb9HsrlPn+82lrzV1IK+kE32wScMmRHH7qL1rFr905M178KY97XC1iX3AB2GjM23vkzvFbZfC+Gdu15qxXNVVngiLR3taCUV3dtCO+cGrLV+yDai9KyHIYPYlo5SX2j7z1WOEt1NIvOVlt0dQXPvzZemhejruYnd2OuWXEQCxE7E0OUngwUxElQYMtAAEImXoNIwZCIpDdBPCBaGDKRwlqCEzCyjb7OdZMYWnVnKkszMMvo228jSw/b9bTIzuZo5qT/J9u8G65+r/G0jm/hiJyOFPiTvW7SobJHrLfKwQxzoVXeVaewt0EOamKyb9sQMfArYyWgtPkjhHNA/VltKigupdFtLT0mdcohOmgimpVSrQsmP1F7z+TJxk5uM3jysfkK8oh9n76kQWclwj2Z4P1CDPoVwhzDcmRkY/VoquWbf2b/DaTYIX1Yq7R4oMwAzNdjJdI+S5P52vKOjdPNsUXVEauBqduVK/lp75aZUS9KGxlAwQEzWYCfzKHvuFfbrze/FoirurdPpip3h0HzyjspwR9HBh9RavUWyoWgyGtdfc/cZUc/naSgWolipdKTY8ch7GtSu/wwRaus35XLH7GhwEPDrYCfjVz7tdkJm2hFH7SWZsUUqOdVki04IWVJmIYI1VWiSGVu4kUMNNPXTQoD/Ys9MsWLWY/bLLGnsiPGk7GTm6ozmXM0zleIBe7bRomM3HJcTGmiAZoZjz8xc9Zm5Gs2QSTOqOmQvs7kaAJI+w1R37GXG5NdYatjJIGUWm1UzEtLYrJoRMrHJDDJpxiYzSJ9BsjcOhn0AQDIzjqPIN/8AccsHrkFLHgMAAAAASUVORK5CYII=",
+        "sourcePath": "https://github.com/feiyeyuanye/Hanime1Plugin/releases/download/1.2%282%29/Hanime1Plugin_1.2.apk",
+        "name": "Hanime1动漫",
+        "apiVersion": 8,
+        "repoDesc": "Android插件(https://hanime1.me) (NSFW)",
+        "repoUrl": "https://github.com/feiyeyuanye/Hanime1Plugin/releases/tag/1.2(2)",
         "author": "feiyeyuanye"
     }
 ]
