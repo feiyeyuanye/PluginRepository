@@ -1,4 +1,6 @@
-## 个人插件汇总
+**关于[媒体盒子](https://github.com/feiyeyuanye/MediaBoxPluginRepository)的个人仓库**
+
+**个人插件汇总**
 |                             动漫                             |                             影视                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [稀饭动漫](https://github.com/feiyeyuanye/XfaniAnimePlugin)  |   [七喜影院](https://github.com/feiyeyuanye/QiXiVodPlugin)   |
