@@ -1,4 +1,4 @@
-**关于[媒体盒子](https://github.com/feiyeyuanye/MediaBoxPluginRepository)的个人仓库**
+**关于[媒体盒子](https://github.com/RyensX/MediaBoxPluginRepository)的个人仓库**
 
 **个人插件汇总**
 |                             动漫                             |                             影视                             |
