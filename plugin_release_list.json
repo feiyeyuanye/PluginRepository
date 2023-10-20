@@ -79,6 +79,10 @@
         {
             "name": "泥视频",
             "release": "https://github.com/feiyeyuanye/NiVodPlugin/releases/tag/1.0(1)"
+        },
+        {
+            "name": "次元城动漫",
+            "release": "https://github.com/feiyeyuanye/CycdmAnimePlugin/releases/tag/1.0(1)"
         }
     ]
 }
