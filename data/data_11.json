@@ -1,12 +1,12 @@
 [
     {
         "version": "1.0",
-        "packageName": "com.jhr.cycdmplugin",
+        "packageName": "com.jhr.cycdmplugin_hide",
         "iconBase64": "data:image/png;base64,UklGRpQFAABXRUJQVlA4WAoAAAAQAAAAPwAAPwAAQUxQSJkBAAABkGNt2+Jkz8xgVWZKrByWoNsgdNqRlMgOgrusI9YBtVVJhdO6/YI7Lz7f9z4biIgJgPHq+HC+eHj/+np/WMwNt1RDtVM/vimRN8bqHS1+77YY3u7xNQQDl2LxMhXYcpPnYvk84VoJV0ThSmih/VpUXreZ8uZF7ZxnpCIvinPlBiqWRPVieSQvL8pzXpQZUT8ToV0I239Vd8NwHf7CWxPKFfenpJAmfwjOWc6D7waEduAb/5Lnv/+lX4j7ALh7TDsO0CzUjcAk1ySww7WFGuF+q2wlk/gg22CaLV1gKxywHdyy3b6wvfDdsN0csO0X2AoZtvQA20ArW7yW7K0KO1zbwCTXJNDE1Qg4u0zbDoA+pj4ACC55LmNfMMCTwrfBOcuZ/x0SLAn86K5yrLg/oe6a4SrEb9sY2vD7aX1TiOhltKXdKChf1LVQhujleU25cpj05vXMeTDcdaPjuhPmw2UNyyFsuokzW2fdDiwHA/9t/B8IoDDWu2VqqzcGpU7D+MZblNf18XoHqivjqUzx8P719f6wmEm1VMI4AFZQOCDUAwAAEBMAnQEqQABAAD7RWKZPKCSjIiwSvAEAGgljAMzpquWM6AA/gG3f5dQixvNz+iR6A001XCPJ95vUJ6VvoQM1MP7ZcdXdw/n4HLD25pJm7V+0EA2YTdb3T3HPqH4HFuQvmXsZ/EpsKZ5QeEekt/9T0OJ5+dINRgfRYePot5dYdsd+Vk8AEvuLVp7xcdygFurKktiMsCeE97FOhVFQN6NZHsAA/nuK1pFhhZnOSOKPlhXUz8Ziwok++1Rztt6ue4tvZzZpuQ5nfX+ccrbMg2pelI7duAIs5pI9rDf+XZDhVLzfhYCqfv8U/OMfn0kNdRpG1ZOWV1AU5I2UqQP6bWwgQ7k6pQHNJUl+dKnKC03Om13uRPyRnzCyXH/0xP0PuFE/Mt6pqj81o5lDFVbjylTtLSxvwKGqqYZGfqCOWv/V3GPsoxUA73AQ4FplwVCZJKyd42jsyaJsilgImB9y5THTZ3KnVoEHjHp49C8PLu9ZiNoSo08ulj+GORcPAA6JHQPi8+eS+xtDoRwrhqvhJOzulQ1UH5OXnGVL58Zw5r8KW5o1XmUbx3uPc7L6MsjzgDTf8jSZxa37ZF8bE9WUZymjtNaT7QE6NAKF5BqmQeDa/C9g2mNJJY3Itif+HqhysN4bqPkU+dLZYQaUolpxMY1P55U6rnvjIXlA0IzNhqeHqRzPe4ZEKvbok5sMiKh8PUMwdZ7rKTzZacwFgGKckS3vDij2V+Vx0cmug5bwr3zKgz+qPGObUIlK3FN8AIZoG/jdg4RgDoWIeICYyxLuSbnlxoGxVjxQ4m3x6Oi9w9pjiuL583CyPokipnePP/r1drxJ9IuXSThwLoiVOny/GdMBo2G0wu15apN0+p9QFlu7i6Mxf1W/Lz+9h838BGUgNjX30Cu0aDW8AHSmHeGeeBu+7l3Jk233MJBu0XtuN3U5AbVk7MeZ/UoBPbd6g338KVdtBhPPcnGhh0FUBsXOONQIr9yBxl+edK5dff7PmuyW2Sg83hBqk7pK8bK8aHL0MsO68G5grS9fPt8h7YxE2MWxKYtPUNcsfNhqeES/cKFCvE1+6QPb7G9P+YPzyboeqD/wQ1rZnMBRlxCBlC7/IwIbbsWh9C+0lTK6rXb60nApFAZ0Yk27s6LODPh4RXZ7zdlUJju5BUYJFH040Qnfg0PVARx+WSvddJlXAwisYOnofI0Q8KSbzCED/iProa+y1g72bqHCZ1gk0CrTH/Ax0plMiKFedyrSIO0wAHcnVXXS+blnLKnqZ1uC55hMNVlGg3oTe6xj6VWf3IXBchnTZkbx2dTuAAA=",
         "sourcePath": "https://github.com/feiyeyuanye/CycdmAnimePlugin/releases/download/1.0%281%29/CycdmAnimePlugin_1.0_1.mpp",
         "name": "次元城动漫",
         "apiVersion": 9,
-        "repoDesc": "次元城动漫。推荐官方版，不推荐此插件(不出意外则无法使用)。",
+        "repoDesc": "推荐官方版，不推荐此插件(不出意外则无法使用)",
         "repoUrl": "https://github.com/feiyeyuanye/CycdmAnimePlugin/releases/tag/1.0(1)",
         "author": "feiyeyuanye"
     }
