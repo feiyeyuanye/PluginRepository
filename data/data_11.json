@@ -1,13 +1,22 @@
 [
     {
+        "version": "1.2",
+        "packageName": "com.su.ddvideo",
+        "iconBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAADXUlEQVR4Xu2ZW0gUYRiGLUs0saCEbHWdUbPMQxeZZCGkFRSFBEURQXWnVkjXSsVS0LVZmrtrlmRaG1mJkaYmQVaEdJdkmZaUqLsze3BtD+7y9X+zo87Orocu3JloXngYZ7//8L5z+t2dsDBFcpYBwvM1sEJK0IPY1sLSwHIOueiv/Agaxtfb1iVr2cSUOkYtBTg3egjmLbj4BirtyCq6lq2m9eZRWmdiJAU96E3V6EnoMbj4Iq0z1tB6BkhH2UBVftcTa8vmDsDfLCRpLK03jvMdXZTe5KV0Rmkgc6MHPJiJVcPG2PK2DUKvfuLueKKEq+9Tad24mUtNBhEfiVDj88AAVTVsiStuSBd69dP0h/FlzzdR2nF2tnPgoKHEL8B5XYbQq5+EAeR6BtaX3MoUevWTEmCJUAKIBww1SgDxgIshp4GF1gEHHGmxBNSQtDsM3Pw4CZffTATUxEgSYPdDFpxTXjjXaQuoIZn1DHwYccGjz46AmhglgHjAxaAEEKAEEA8YjCTCdvLkKXxihsNPLVDcYQ0IsIU8eQ41++onWi3wyeiWT4CDxNg38xRn2uH2clthgMy7DLweds7UEY/HK58Azf0O6GfcUGAwc/viS6i0ywZ2lwdOv7BCSq0ML6F3v1zwcsg5sy8OcOWtHUbtU7DjPsvtKwGUACKUAPMQkgA9P13QQQLgeoD74gCangkYs3sgt1GmARr7fsMX8hjFf593EpNn2vwXsrOdvsfohVc22NXEwoHHZugzyWwhGyQL2aTbAxPEqNXpARuhpMMXIJ0sZN0/nDBJahgEa9i2qU8mARBcbfeTI5tDrvPNdQwcJWdj273ZnydTb5tgj4GFvAcs94UGz0I+v/DNR8gCLBVKAPGAoeb/DPBP/7irKmtPk+0ZKNJmCb36i39psLa0IYGqGTNhJ1ouLzhqWVBfH2TWnNQkc1413UECoHyvbyLjr/UaKO0YYEcuCG6lgJ+bqhkF1aXuZuItivc4h3zF8IiNORmqi13P1BVfWapyyJp4Y9CC21AyPae6YoCNK29viUjOxssnfP4AKF+DKEJS5NaCvTF5pwpj8o7PkrvECOcic0dm5e9DL5ynBc1PCxtmHIsgf0UTVktMNOdl0eaFIjdLdlHvSimZ+4ZVJA/9AY+MBdqPu++QAAAAAElFTkSuQmCC",
+        "sourcePath": "https://github.com/RyensX/DDVideoPlugin/releases/download/1.2%284%29/DDVideoPlugin_1.2_4.mpp",
+        "name": "DD影视",
+        "apiVersion": 6,
+        "repoUrl": "https://github.com/RyensX/DDVideoPlugin/releases/tag/1.2(4)",
+        "author": "RyensX"
+    },
+    {
         "version": "1.0",
-        "packageName": "com.jhr.cycdmplugin_hide",
-        "iconBase64": "data:image/png;base64,UklGRpQFAABXRUJQVlA4WAoAAAAQAAAAPwAAPwAAQUxQSJkBAAABkGNt2+Jkz8xgVWZKrByWoNsgdNqRlMgOgrusI9YBtVVJhdO6/YI7Lz7f9z4biIgJgPHq+HC+eHj/+np/WMwNt1RDtVM/vimRN8bqHS1+77YY3u7xNQQDl2LxMhXYcpPnYvk84VoJV0ThSmih/VpUXreZ8uZF7ZxnpCIvinPlBiqWRPVieSQvL8pzXpQZUT8ToV0I239Vd8NwHf7CWxPKFfenpJAmfwjOWc6D7waEduAb/5Lnv/+lX4j7ALh7TDsO0CzUjcAk1ySww7WFGuF+q2wlk/gg22CaLV1gKxywHdyy3b6wvfDdsN0csO0X2AoZtvQA20ArW7yW7K0KO1zbwCTXJNDE1Qg4u0zbDoA+pj4ACC55LmNfMMCTwrfBOcuZ/x0SLAn86K5yrLg/oe6a4SrEb9sY2vD7aX1TiOhltKXdKChf1LVQhujleU25cpj05vXMeTDcdaPjuhPmw2UNyyFsuokzW2fdDiwHA/9t/B8IoDDWu2VqqzcGpU7D+MZblNf18XoHqivjqUzx8P719f6wmEm1VMI4AFZQOCDUAwAAEBMAnQEqQABAAD7RWKZPKCSjIiwSvAEAGgljAMzpquWM6AA/gG3f5dQixvNz+iR6A001XCPJ95vUJ6VvoQM1MP7ZcdXdw/n4HLD25pJm7V+0EA2YTdb3T3HPqH4HFuQvmXsZ/EpsKZ5QeEekt/9T0OJ5+dINRgfRYePot5dYdsd+Vk8AEvuLVp7xcdygFurKktiMsCeE97FOhVFQN6NZHsAA/nuK1pFhhZnOSOKPlhXUz8Ziwok++1Rztt6ue4tvZzZpuQ5nfX+ccrbMg2pelI7duAIs5pI9rDf+XZDhVLzfhYCqfv8U/OMfn0kNdRpG1ZOWV1AU5I2UqQP6bWwgQ7k6pQHNJUl+dKnKC03Om13uRPyRnzCyXH/0xP0PuFE/Mt6pqj81o5lDFVbjylTtLSxvwKGqqYZGfqCOWv/V3GPsoxUA73AQ4FplwVCZJKyd42jsyaJsilgImB9y5THTZ3KnVoEHjHp49C8PLu9ZiNoSo08ulj+GORcPAA6JHQPi8+eS+xtDoRwrhqvhJOzulQ1UH5OXnGVL58Zw5r8KW5o1XmUbx3uPc7L6MsjzgDTf8jSZxa37ZF8bE9WUZymjtNaT7QE6NAKF5BqmQeDa/C9g2mNJJY3Itif+HqhysN4bqPkU+dLZYQaUolpxMY1P55U6rnvjIXlA0IzNhqeHqRzPe4ZEKvbok5sMiKh8PUMwdZ7rKTzZacwFgGKckS3vDij2V+Vx0cmug5bwr3zKgz+qPGObUIlK3FN8AIZoG/jdg4RgDoWIeICYyxLuSbnlxoGxVjxQ4m3x6Oi9w9pjiuL583CyPokipnePP/r1drxJ9IuXSThwLoiVOny/GdMBo2G0wu15apN0+p9QFlu7i6Mxf1W/Lz+9h838BGUgNjX30Cu0aDW8AHSmHeGeeBu+7l3Jk233MJBu0XtuN3U5AbVk7MeZ/UoBPbd6g338KVdtBhPPcnGhh0FUBsXOONQIr9yBxl+edK5dff7PmuyW2Sg83hBqk7pK8bK8aHL0MsO68G5grS9fPt8h7YxE2MWxKYtPUNcsfNhqeES/cKFCvE1+6QPb7G9P+YPzyboeqD/wQ1rZnMBRlxCBlC7/IwIbbsWh9C+0lTK6rXb60nApFAZ0Yk27s6LODPh4RXZ7zdlUJju5BUYJFH040Qnfg0PVARx+WSvddJlXAwisYOnofI0Q8KSbzCED/iProa+y1g72bqHCZ1gk0CrTH/Ax0plMiKFedyrSIO0wAHcnVXXS+blnLKnqZ1uC55hMNVlGg3oTe6xj6VWf3IXBchnTZkbx2dTuAAA=",
-        "sourcePath": "https://github.com/feiyeyuanye/CycdmAnimePlugin/releases/download/1.0%281%29/CycdmAnimePlugin_1.0_1.mpp",
-        "name": "次元城动漫",
-        "apiVersion": 9,
-        "repoDesc": "推荐官方版，不推荐此插件(不出意外则无法使用)",
-        "repoUrl": "https://github.com/feiyeyuanye/CycdmAnimePlugin/releases/tag/1.0(1)",
-        "author": "feiyeyuanye"
+        "packageName": "com.su.dubokuvideoplugin",
+        "iconBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACgklEQVR4Xu2ZTWsTURSG384kITFgS+tGUEHBIH5AwZXt0rp0VaQrV/YX9Be4Kf6DIgiF2uBCSFD3paBgC7p2IXTXhdivJLtojsdzOnOlvTdJp1bnA+bAw4WbOee+7517J5NcII+UBwMjgif4QiFGdDzP1pPJECMjdl+kkMQJ4YpwOSF07Alb14khSWVh6RfwjYC9JAk1LImec7bOgdEDnksiU4poAS8Q7Mfhy6kDXBAD3zVJ2q601EuIcOyuTqbo2nkPXFSNfU2Yzi/A9Z/AQWhAizizESeqITTQegPcDLUWjqsPOg8fWR+AmhjYN8l2wbg5auAVcCvU2teAr21oIJV34CVwO9Ta18BhZ27gH5MbsAvGTW7ALjgU32eqVNz+MxCvgdFRppUVprk5pmLR/fwviNfA2BjT5iZTp8O0uspUq7nXnJJkDBAx9XpMW1tM8/NM1ap7bUSSM2DodpmaTabJSSbPc3NOIHkDhu1tpoUFpvFxN28I6TFgltXaGtPUFFOh4Ob3IV0GDK0W0+JicL1dwyKdBgyNBlOp5NY5QjoNZPYOZHoPZPYplNnvgUx/E7fbTPV6Bt+F9G10eZlpdjajb6P6e6BcdvvPQLwG/gO5Abtg3OQG7IJxcxoDvrahgUz+uetp+xG4kdY7UAfuhFpdAyYawKUfwK4m9VJywCGCeR/YewZcU43rgwxwcMhR/gq8FhOsiWpE2yQwY3eFz0BTtFU4wtGrPy1r7RPwdkf2wgHQFvctbePEjLkrGjaAd/eC5aNnx+7xUp+oCFcfAPefAA8fJ4SOPQPMqBbVFGX2/8RdoChNVTifMNVHQCnqzB+Lp+JY1l4xSdYHbdg8UhK/AXHHz9THttNkAAAAAElFTkSuQmCC",
+        "sourcePath": "https://github.com/RyensX/DubokuVideoPlugin/releases/download/1.0/DubokuVideoPlugin_1.0_1.mpp",
+        "name": "独播影视",
+        "apiVersion": 7,
+        "repoUrl": "https://github.com/RyensX/DubokuVideoPlugin/releases/tag/1.0",
+        "author": "RyensX"
     }
 ]
