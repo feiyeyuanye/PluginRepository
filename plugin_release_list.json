@@ -1,54 +1,6 @@
 {
     "plugins": [
         {
-            "name": "樱花动漫",
-            "release": "https://github.com/RyensX/SakuraAnimePlugin/releases/tag/1.9(10)"
-        },
-        {
-            "name": "樱花动漫2",
-            "release": "https://github.com/RyensX/SakuraAnime2Plugin/releases/tag/1.5(7)"
-        },
-        {
-            "name": "Gimy影视",
-            "release": "https://github.com/MARVEL-LJH/GimyPlugin/releases/tag/1.4.27"
-        },
-        {
-            "name": "DD影视",
-            "release": "https://github.com/RyensX/DDVideoPlugin/releases/tag/1.2(4)"
-        },
-        {
-            "name": "独播影视",
-            "release": "https://github.com/RyensX/DubokuVideoPlugin/releases/tag/1.0"
-        },
-        {
-            "name": "樱花动漫3",
-            "release": "https://github.com/feiyeyuanye/SakuraAnime3Plugin/releases/tag/1.7(9)"
-        },
-        {
-            "name": "AnFuns动漫",
-            "release": "https://github.com/feiyeyuanye/AnFunsAnimePlugin/releases/tag/1.3(3)"
-        },
-        {
-            "name": "AGE动漫",
-            "release": "https://github.com/feiyeyuanye/AGEAnimePlugin/releases/tag/1.6(6)"
-        },
-        {
-            "name": "ZzzFun动漫",
-            "release": "https://github.com/feiyeyuanye/ZzzFunAnimePlugin/releases/tag/1.3(3)"
-        },
-        {
-            "name": "稀饭动漫",
-            "release": "https://github.com/feiyeyuanye/XfaniAnimePlugin/releases/tag/1.3(3)"
-        },
-        {
-            "name": "FreeOk影视",
-            "release": "https://github.com/feiyeyuanye/FreeOkVideoPlugin/releases/tag/1.3(3)"
-        },
-        {
-            "name": "看韩剧",
-            "release": "https://github.com/feiyeyuanye/KanHJVideoPlugin/releases/tag/1.0(1)"
-        },
-        {
             "name": "LIBVIO影视",
             "release": "https://github.com/feiyeyuanye/LIBVIOVideoPlugin/releases/tag/1.6(6)"
         },
@@ -65,6 +17,14 @@
             "release": "https://github.com/feiyeyuanye/QiXiVodPlugin/releases/tag/1.0(1)"
         },
         {
+            "name": "看韩剧",
+            "release": "https://github.com/feiyeyuanye/KanHJVideoPlugin/releases/tag/1.0(1)"
+        },
+        {
+            "name": "泥视频",
+            "release": "https://github.com/feiyeyuanye/NiVodPlugin/releases/tag/1.0(1)"
+        },
+        {
             "name": "快看资源网",
             "release": "https://github.com/feiyeyuanye/KuaiKanVodPlugin/releases/tag/1.0(1)"
         },
@@ -77,12 +37,56 @@
             "release": "https://github.com/feiyeyuanye/BFZYVodPlugin/releases/tag/1.2(2)"
         },
         {
-            "name": "泥视频",
-            "release": "https://github.com/feiyeyuanye/NiVodPlugin/releases/tag/1.0(1)"
+            "name": "量子资源",
+            "release": "https://github.com/feiyeyuanye/LZiZYPlugin/releases/tag/1.0(1)"
         },
         {
             "name": "次元城动漫",
             "release": "https://github.com/feiyeyuanye/CycdmAnimePlugin/releases/tag/1.0(1)"
+        },
+        {
+            "name": "稀饭动漫",
+            "release": "https://github.com/feiyeyuanye/XfaniAnimePlugin/releases/tag/1.3(3)"
+        },
+        {
+            "name": "AnFuns动漫",
+            "release": "https://github.com/feiyeyuanye/AnFunsAnimePlugin/releases/tag/1.3(3)"
+        },
+        {
+            "name": "樱花动漫",
+            "release": "https://github.com/RyensX/SakuraAnimePlugin/releases/tag/1.9(10)"
+        },
+        {
+            "name": "樱花动漫2",
+            "release": "https://github.com/RyensX/SakuraAnime2Plugin/releases/tag/1.5(7)"
+        },
+        {
+            "name": "樱花动漫3",
+            "release": "https://github.com/feiyeyuanye/SakuraAnime3Plugin/releases/tag/1.7(9)"
+        },
+        {
+            "name": "AGE动漫",
+            "release": "https://github.com/feiyeyuanye/AGEAnimePlugin/releases/tag/1.6(6)"
+        },
+        {
+            "name": "ZzzFun动漫",
+            "release": "https://github.com/feiyeyuanye/ZzzFunAnimePlugin/releases/tag/1.3(3)"
+        },
+        {
+            "name": "FreeOk影视",
+            "release": "https://github.com/feiyeyuanye/FreeOkVideoPlugin/releases/tag/1.3(3)"
+        },
+        {
+            "name": "Gimy影视",
+            "release": "https://github.com/MARVEL-LJH/GimyPlugin/releases/tag/1.4.27"
+        },
+        {
+            "name": "DD影视",
+            "release": "https://github.com/RyensX/DDVideoPlugin/releases/tag/1.2(4)"
+        },
+        {
+            "name": "独播影视",
+            "release": "https://github.com/RyensX/DubokuVideoPlugin/releases/tag/1.0"
         }
     ]
 }
